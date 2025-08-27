@@ -1,6 +1,5 @@
 # 양꼬치
-
-### 2025. 08. 27.
+### 2025. 08. 27. (수)
 
 [문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=javascript)
 
