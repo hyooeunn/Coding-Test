@@ -7,3 +7,6 @@ function solution(n) {
     }
     return sum;
 }
+
+// String() : 다른 타입을 문자열로 바꿔주는 함수
+// Number() : 다른 타입을 숫자로 바꿔주는 함수
