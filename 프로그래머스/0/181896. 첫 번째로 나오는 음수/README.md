@@ -1,10 +1,10 @@
 # [level 0] 첫 번째로 나오는 음수 - 181896 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181896?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181896?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.08 ms
+메모리: 9.13 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 23일 10:15:39
+2025년 10월 23일 10:17:19
 
 ### 문제 설명
 
