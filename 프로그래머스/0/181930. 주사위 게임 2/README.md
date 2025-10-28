@@ -1,6 +1,6 @@
 # [level 0] 주사위 게임 2 - 181930 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181930) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181930?language=javascript) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 28일 21:12:20
+2025년 10월 28일 21:12:33
 
 ### 문제 설명
 
